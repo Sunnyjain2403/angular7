@@ -1,3 +1,7 @@
+The project fetches the information in the form of json file and provided the information in the form of list by the use of REST calls with HttpClient in angular. 
+
+
+
 # Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
